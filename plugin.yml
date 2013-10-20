@@ -1,0 +1,9 @@
+name: LivingBuilding
+version: 24
+author: bgsteiner
+main: com.gmail.mooman219.build.LivingBuilding
+commands:
+    LivingBuilding:
+        description: Interact with the LivingBuilding Plugin.
+        aliases:
+        - bu
